@@ -1,0 +1,17 @@
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\RestServiceDemo.deps.json
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\RestServiceDemo.runtimeconfig.json
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\RestServiceDemo.runtimeconfig.dev.json
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\RestServiceDemo.dll
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\RestServiceDemo.pdb
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.csprojAssemblyReference.cache
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.RazorAssemblyInfo.cache
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.RazorAssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.AssemblyInfoInputs.cache
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.AssemblyInfo.cs
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.RazorTargetAssemblyInfo.cache
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.dll
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.pdb
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\ModelLibrary.dll
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\bin\Debug\netcoreapp2.1\ModelLibrary.pdb
+C:\Users\JonasRasmussen\source\repos\RestServiceDemo\RestServiceDemo\obj\Debug\netcoreapp2.1\RestServiceDemo.csproj.CopyComplete
